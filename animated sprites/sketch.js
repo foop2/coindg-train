@@ -17,7 +17,7 @@ let horses = [];
 
 function preload() {
   spritedata = loadJSON('horse.json');
-  spritesheet = loadImage('horse.png');
+  spritesheet = loadImage('foop.png');
 }
 
 
